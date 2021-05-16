@@ -1,8 +1,8 @@
-.loader-background{
-    background-color: black;
+body{
+	background-color: black;
 }
 .sk-circle {
-  margin: 100px auto;
+  margin: 50%;
   width: 40px;
   height: 40px;
   position: relative;
